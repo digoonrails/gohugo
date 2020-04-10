@@ -4,7 +4,6 @@ title = "Minimal"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
-publishDir = "digoonrails.github.io"
 
 [params]
     author = "Calin Tataru"
