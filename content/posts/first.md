@@ -1,6 +1,11 @@
 ---
-title: "First"
-date: 2020-04-04T13:26:47-03:00
+title: First
+date: {}
 draft: false
+published: true
 ---
+## My title
+
+![index.jpeg]({{site.baseurl}}/content/posts/index.jpeg)
+
 
